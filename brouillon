@@ -1,0 +1,37 @@
+<h1>Services proposés</h1>
+                    <section id="services">
+
+                      
+                        
+                        <div class="contenu">
+                        <article class="descriptions">
+                        <img src="images/chocolats-artisanaux-pexels-linken-van-zyl-263454378-18958634.jpg" alt="chocolats">
+                        <div>
+                        <h3> Chocolats artisanaux</h3>
+                        <p>Découvrez notre sélection de chocolats faits à la main, alliant tradition et créativité pour des saveurs uniques.</p><a href="" class="bouton bouton-plaisirs">Découvrez</a>
+                        </div>
+                        </article>
+                        </div>
+                        
+                        <div class="contenu">
+                        <article class="descriptions">
+                        <img src="images/atelier-degustation-pexels-jonathanborba-34357862.jpg" alt="chocolats">
+                        <div>
+                        <h3>Ateliers de dégustation</h3>
+                        <p>Participez à nos ateliers pour apprendre à déguster le chocolat comme un expert, en explorant ses arômes et ses textures.</p>
+                        <a href="" class="bouton bouton-plaisirs">Découvrez</a>
+                        </div>
+                        </article>
+                        </div>
+
+                        <div class="contenu">
+                        <article class="descriptions">
+                        <img src="images/cadeaux-personnalises-pexels-soufianlafnesh-36914973.jpg" alt="chocolats"> 
+                        <div>
+                        <h3>Cadeaux personnalisés</h3>
+                        <p>Offrez des cadeaux gourmands avec nos coffrets de chocolats personnalisés, parfaits pour toutes les occasions.</p>
+                        <a href="" class="bouton bouton-plaisirs">Découvrez</a>
+                        </div>
+                        </article>
+                        </div>
+                     </section>
